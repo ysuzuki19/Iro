@@ -1,5 +1,7 @@
 # iro
-C++ terminal output coloring header-library
+C++ terminal output coloring header-library.
+
+`iro` (色; いろ) is Japanese word which mean "color".
 
 # run sample
 

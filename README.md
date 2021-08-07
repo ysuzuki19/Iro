@@ -12,6 +12,16 @@ $ make
 $ make run
 ```
 
+# how to use
+
+```cpp
+// include iro/include/iro.hpp
+std::cout << Iro::yellow("Hello ")
+          << Iro::cyan("World")
+          << Iro::green("!")
+          << std::endl;
+```
+
 # demos
 ## Ubuntu
 
